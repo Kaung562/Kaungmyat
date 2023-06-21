@@ -318,8 +318,8 @@ nav .fa-solid {
     display: none;
 }
 @media only screen and (max-width:600px ){
-    #header{
-        background-image: url(backkk.jpeg);
+    #header {
+       background-image: (kokokok.jpeg);
     }
     .header-text {
         margin-top: 50%;
